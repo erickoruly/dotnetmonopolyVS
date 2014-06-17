@@ -1,0 +1,12 @@
+G:\Semester VI\.NET E\Lab 6\FP_Monopoly\Monopoly\bin\Debug\Monopoly.exe.config
+G:\Semester VI\.NET E\FP_Monopoly\Monopoly\bin\Debug\Monopoly.exe.config
+G:\Semester VI\.NET E\FP_Monopoly\Monopoly\bin\Debug\Monopoly.exe
+G:\Semester VI\.NET E\FP_Monopoly\Monopoly\bin\Debug\Monopoly.pdb
+G:\Semester VI\.NET E\FP_Monopoly\Monopoly\obj\Debug\Monopoly.csprojResolveAssemblyReference.cache
+G:\Semester VI\.NET E\FP_Monopoly\Monopoly\obj\Debug\Monopoly.exe
+G:\Semester VI\.NET E\FP_Monopoly\Monopoly\obj\Debug\Monopoly.pdb
+G:\Semester VI\.NET E\FP_Monopoly\Monopoly\bin\Debug\xunit.dll
+G:\Semester VI\.NET E\FP_Monopoly\Monopoly\bin\Debug\xunit.xml
+D:\KULIAH\sem6\dot net\monopoliii\FP_Monopoly\Monopoly\bin\Debug\Monopoly.exe.config
+D:\KULIAH\sem6\dot net\monopoliii\FP_Monopoly\Monopoly\obj\Debug\Monopoly.exe
+D:\KULIAH\sem6\dot net\monopoliii\FP_Monopoly\Monopoly\obj\Debug\Monopoly.pdb

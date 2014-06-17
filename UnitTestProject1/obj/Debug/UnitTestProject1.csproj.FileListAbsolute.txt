@@ -1,0 +1,14 @@
+G:\Semester VI\.NET E\FP_Monopoly\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+G:\Semester VI\.NET E\FP_Monopoly\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+G:\Semester VI\.NET E\FP_Monopoly\UnitTestProject1\bin\Debug\Monopoly.exe
+G:\Semester VI\.NET E\FP_Monopoly\UnitTestProject1\bin\Debug\Monopoly.pdb
+G:\Semester VI\.NET E\FP_Monopoly\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+G:\Semester VI\.NET E\FP_Monopoly\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+G:\Semester VI\.NET E\FP_Monopoly\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+D:\KULIAH\sem6\dot net\monopoliii\FP_Monopoly\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\KULIAH\sem6\dot net\monopoliii\FP_Monopoly\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\KULIAH\sem6\dot net\monopoliii\FP_Monopoly\UnitTestProject1\bin\Debug\Monopoly.exe
+D:\KULIAH\sem6\dot net\monopoliii\FP_Monopoly\UnitTestProject1\bin\Debug\Monopoly.pdb
+D:\KULIAH\sem6\dot net\monopoliii\FP_Monopoly\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+D:\KULIAH\sem6\dot net\monopoliii\FP_Monopoly\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\KULIAH\sem6\dot net\monopoliii\FP_Monopoly\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
